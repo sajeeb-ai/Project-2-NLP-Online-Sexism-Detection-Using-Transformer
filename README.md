@@ -1,4 +1,4 @@
-# Project-2-NLP-Task
+# Project-2-NLP-Online Sexism Detection Using Transformer
 
 Title : Online Sexism Detection Using Transformer
 
